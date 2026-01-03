@@ -253,7 +253,7 @@ WHERE fk_atomic_attack_id IN
 
 ---
 
-# 📬 # Support and addtional Features
+# 📬 Support and addtional Features
 
 For any customizations or business collaboration inquiries, please visit [applyingcode.com](http://www.applyingcode.com).
 For issues or feature requests, please file a GitHub issue.  
